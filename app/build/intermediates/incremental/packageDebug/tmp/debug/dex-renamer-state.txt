@@ -1,0 +1,4 @@
+#Thu Nov 04 14:09:12 SGT 2021
+base.0=D\:\\Confidential\\Sem 5\\Native Mobile Application Development\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
